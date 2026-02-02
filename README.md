@@ -17,7 +17,7 @@ integrando front-end em React com API REST em Node.js.
 
 <h2 id="sobre-o-projeto">📌 Sobre o Projeto</h2>
 
-O **Cadastro de Usuários | Full Stack App** é uma aplicação completa desenvolvida para praticar e consolidar a integração entre **front-end e back-end**, utilizando React no cliente e Node.js com MongoDB no servidor.
+O **Cadastro de Usuários** é uma aplicação completa desenvolvida para praticar e consolidar a integração entre **front-end e back-end**, utilizando React no cliente e Node.js com MongoDB no servidor.
 
 O sistema permite cadastrar, visualizar e deletar usuários através de uma **API REST**, aplicando boas práticas de organização de código, componentização e escalabilidade.
 
